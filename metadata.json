@@ -1,0 +1,6 @@
+{
+  "name": "GS INHANCE",
+  "description": "Premium AI-powered advanced photo restoration, HD upscaling, background removal, smart object erasing, color correction, and feature-rich video editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
